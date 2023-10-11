@@ -1,7 +1,6 @@
 <img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="20%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="20%" style="display:inline;">
 
 <h1 align="center">Hi 👋, I'm Werewolves0493</h1>
-<h3 align="center">🚀 Crypto Enthusiast | NFT Collector | DeFi Advocate 🌐 | Passionate about shaping the future of finance through blockchain technology. 🔗 Let's decentralize and tokenize the world! 🌟 #CryptoPassion #NFTs #DeFi 🚀</h3>
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/) [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/cryptopunkclan) [<img src="https://img.shields.io/badge/gmail-%23EE0000.svg?&style=for-the-badge&logo=gmail&logoColor=white">](mailto:seniordev1225@gmail.com) 
 ![Visits Badge](https://badges.pufler.dev/visits/Werewolves0493/Werewolves0493?style=for-the-badge)
